@@ -19,5 +19,5 @@ git clone https://github.com/notinrange/Email-Reply-Genrator-Chrome-Extension.gi
 
 for frontend follow readme file steps of this repository
 
-[https://github.com/notinrange/Email-Generator-Frontend](https://github.com/notinrange/Email-Generator-Frontend)
+[https://github.com/notinrange/Emaill-Generator-Frontend](https://github.com/notinrange/Emaill-Generator-Frontend)
 
