@@ -5,9 +5,10 @@
     "description": "Assistant",
     "permission":["activeTab","storage"],
     "host_permissions":[
+        "https://beige-parents-beg.loca.lt/*",
         "http://localhost:8080/*",
         "*://mail.google.com/*",
-        "https://cold-ideas-prove.loca.lt/*"
+        
     ],
     "action":{
         "default_title":"Email Writer Assistant"
