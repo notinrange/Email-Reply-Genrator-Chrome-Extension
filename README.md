@@ -1,5 +1,5 @@
 
-# Email-Reply-Genrator-Chrome-Extension Steps to run locally
+# Email-Reply-Generator-Chrome-Extension Steps to run locally
 
 - **Step 1** Follow [Backend Steps](https://github.com/notinrange/Email-Generator-Backend) as provided in anoteher Repo
 - **Step 2** Clone repository
