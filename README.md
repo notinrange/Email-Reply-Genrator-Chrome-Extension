@@ -22,7 +22,12 @@ for frontend follow readme file steps of this repository
 [https://github.com/notinrange/Emaill-Generator-Frontend](https://github.com/notinrange/Emaill-Generator-Frontend)
 
 
-## Not able to accept request with online backend URL  because it served on HTTP but Gmail accepts HTTPS http://13.200.61.90:8080/
 
+Frontend URL deployed on Render
+[https://emaill-generator-frontend.onrender.com/](https://emaill-generator-frontend.onrender.com/)
 
-![Screenshot 2025-05-03 143840](https://github.com/user-attachments/assets/e5d0f0f8-63d0-4965-811b-494cf40498fb)
+Docker Image 
+[https://hub.docker.com/r/notinrange/email-generator](https://hub.docker.com/r/notinrange/email-generator)
+
+Backend URL
+[https://email-generator-1-0-snapshot.onrender.com](https://email-generator-1-0-snapshot.onrender.com)
